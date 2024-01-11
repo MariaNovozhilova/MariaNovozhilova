@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @MariaNovozhilova
-- 👀 I’m interested in Natural Science.
-- 🌱 I’m currently learning Python & SQL.
-- 💞️ I’m looking to collaborate in Data projects related to Biology/Health as Junior Analyst.
+- 👀 I’m a Python Developer.
 - 📫 How to reach me - @EssentialMarie in Telegram.
 
 <!---
