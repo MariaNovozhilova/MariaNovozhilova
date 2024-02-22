@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @MariaNovozhilova
-- 👀 I’m a Python Developer.
 - 📫 How to reach me - @EssentialMarie in Telegram.
 
 <!---
